@@ -1,0 +1,5 @@
+-----client side validation
+https://www.c-sharpcorner.com/UploadFile/3d39b4/Asp-Net-mvc-client-side-validation/
+
+-----ASP.NET Web API Using MVC, Entity Framework And HttpClient For Retrieve Data 
+https://www.c-sharpcorner.com/article/asp-net-web-api-using-mvc-entity-framework-and-http-client-for-retrieve-data/
